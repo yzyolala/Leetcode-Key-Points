@@ -15,3 +15,4 @@ for (Map.Entry<String, Integer> entry : map.entrySet()) {
     System.out.println("Key: " + key + ", Value: " + value);
 }
 ```
+这里面是entry.getKey()和entry.getValue()是entry里面的提取方法，跟上面的keySet()/values() 不同

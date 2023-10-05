@@ -4,4 +4,8 @@ queue的创建是 Queue<Integer> queue= new ArrayDeque<>();/new LinkedList<>()
 
 stack的方法是push,pop,peek
 
+stack如果为空是不能用peek方法的
+
 queue的方法是offer,poll,peek(不能用push,pop)
+
+
